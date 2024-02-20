@@ -1,0 +1,14 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+C:/Users/kshit/Documents/Labs 3730/DistanceUltrasonic/DistanceUltrasonic.srcs/sources_1/new/bintoBCD.vhd,1605929119,vhdl,,,,bintobcd,,,,,,,,
+C:/Users/kshit/Documents/Labs 3730/DistanceUltrasonic/DistanceUltrasonic.srcs/sources_1/new/clockDivider.vhd,1606078042,vhdl,,,,clockdivider,,,,,,,,
+C:/Users/kshit/Documents/Labs 3730/DistanceUltrasonic/DistanceUltrasonic.srcs/sources_1/new/counterSrc.vhd,1606150766,vhdl,,,,countersrc,,,,,,,,
+C:/Users/kshit/Documents/Labs 3730/DistanceUltrasonic/DistanceUltrasonic.srcs/sources_1/new/distanceSrc.vhd,1606168539,vhdl,,,,distancesrc,,,,,,,,
+C:/Users/kshit/Documents/Labs 3730/DistanceUltrasonic/DistanceUltrasonic.srcs/sources_1/new/mainSrc.vhd,1606073928,vhdl,,,,mainsrc,,,,,,,,
+C:/Users/kshit/Documents/Labs 3730/DistanceUltrasonic/DistanceUltrasonic.srcs/sources_1/new/rangeSensor.vhd,1606161406,vhdl,,,,rangesensor,,,,,,,,
+C:/Users/kshit/Documents/Labs 3730/DistanceUltrasonic/DistanceUltrasonic.srcs/sources_1/new/segmentDecoder.vhd,1606168104,vhdl,,,,segmentdecoder,,,,,,,,
+C:/Users/kshit/Documents/Labs 3730/DistanceUltrasonic/DistanceUltrasonic.srcs/sources_1/new/segmentDriver.vhd,1606078039,vhdl,,,,segmentdriver,,,,,,,,
+C:/Users/kshit/Documents/Labs 3730/DistanceUltrasonic/DistanceUltrasonic.srcs/sources_1/new/sevenSegSrc.vhd,1605970847,vhdl,,,,sevensegsrc,,,,,,,,
+C:/Users/kshit/Documents/Labs 3730/DistanceUltrasonic/DistanceUltrasonic.srcs/sources_1/new/trigGenSrc.vhd,1606157489,vhdl,,,,triggensrc,,,,,,,,

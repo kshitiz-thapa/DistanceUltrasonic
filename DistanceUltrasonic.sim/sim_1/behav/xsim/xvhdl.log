@@ -1,0 +1,8 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/kshit/Documents/Labs 3730/DistanceUltrasonic/DistanceUltrasonic.srcs/sources_1/new/distanceSrc.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'distanceSrc'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/kshit/Documents/Labs 3730/DistanceUltrasonic/DistanceUltrasonic.srcs/sources_1/new/rangeSensor.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'rangeSensor'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/kshit/Documents/Labs 3730/DistanceUltrasonic/DistanceUltrasonic.srcs/sources_1/new/segmentDecoder.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'segmentDecoder'
+INFO: [VRFC 10-163] Analyzing VHDL file "C:/Users/kshit/Documents/Labs 3730/DistanceUltrasonic/DistanceUltrasonic.srcs/sources_1/new/trigGenSrc.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'trigGenSrc'

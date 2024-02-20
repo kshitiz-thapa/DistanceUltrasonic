@@ -1,0 +1,14 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../DistanceUltrasonic.srcs/sources_1/new/bintoBCD.vhd" \
+"../../../../DistanceUltrasonic.srcs/sources_1/new/clockDivider.vhd" \
+"../../../../DistanceUltrasonic.srcs/sources_1/new/counterSrc.vhd" \
+"../../../../DistanceUltrasonic.srcs/sources_1/new/distanceSrc.vhd" \
+"../../../../DistanceUltrasonic.srcs/sources_1/new/rangeSensor.vhd" \
+"../../../../DistanceUltrasonic.srcs/sources_1/new/segmentDecoder.vhd" \
+"../../../../DistanceUltrasonic.srcs/sources_1/new/segmentDriver.vhd" \
+"../../../../DistanceUltrasonic.srcs/sources_1/new/trigGenSrc.vhd" \
+"../../../../DistanceUltrasonic.srcs/sources_1/new/mainSrc.vhd" \
+
+# Do not sort compile order
+nosort
